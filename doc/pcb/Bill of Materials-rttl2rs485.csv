@@ -1,4 +1,4 @@
-"Description","Comment","Designator","Footprint","Part Number","Alternative Part","Quantity"
+"Description","Comment","Designator","Footprint","Part","Alternative Part","Quantity"
 "Capacitor","0.1uF","C1","C_0603","CC0603KPX7R9BB104","","1"
 "ESD","SM712-02HTG","D1","SOT23","SM712-02HTG","","1"
 "Resistor","10k","R1, R2","R_0603","RC0603FR-0710KL","","2"
